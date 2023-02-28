@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Amazon URL Prettifier
 // @author       Alberto Scomparin (@a-lberto)
-// @homepage     https://www.github.com/a-lberto/userscripts/pretty-amazon-url.js
+// @homepage     https://github.com/a-lberto/userscripts/blob/main/pretty-amazon-url.js
 // @description  Extracts the product ID from the Amazon URL and rewrites it with only the product ID
 // @include      https://www.amazon.*/*
 // @version      0.0.1
